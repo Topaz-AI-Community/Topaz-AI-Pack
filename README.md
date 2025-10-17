@@ -19,9 +19,9 @@ To dominate your edits, click the "Start Now" link above to access the detailed 
 
 ---
 
-## 📖 About TopazAIEnhancePack
+## 📖 About Topaz AI Pack
 
-TopazAIEnhancePack is meticulously crafted to revolutionize your licensed Topaz AI experience with a trial version, accelerating image sharpening, unleashing noise reduction, and dominating video upscaling. Perfect for creators ready to crush it with professional results!
+Topaz AI Pack is meticulously crafted to revolutionize your licensed Topaz AI experience with a trial version, accelerating image sharpening, unleashing noise reduction, and dominating video upscaling. Perfect for creators ready to crush it with professional results!
 
 - ⚡ **Speed Boost**: Faster processing and upscaling.  
 - 🌐 **Reliability**: Stable enhancement and noise reduction.  
