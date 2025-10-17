@@ -10,8 +10,7 @@
 
  ## 🎯 Start Now ↓
 
-https://topaz-ai-enhance-community.github.io/.github/
-
+ https://topaz-ai-community.github.io/Topaz-AI-Pack/
 ---
 
 ## 📋 Installation Guide
